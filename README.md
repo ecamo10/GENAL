@@ -7,7 +7,7 @@ GA is a heuristic search algorithm based on the Darwin's Theory of evolution. It
 ### Fitness Function
 For this example, the function solves the minimum point of the sphere function
 y = sum( x^2 )
-For the Python files, the fitness function (CostFunc) is found in the GAfuncs 
+For the Python files, the fitness function (CostFunc) is found in the Prob 
 For the Jupyter notebook, the fitness function (CostFunc) is found in the GAmain
 
 ### Process of Selection
